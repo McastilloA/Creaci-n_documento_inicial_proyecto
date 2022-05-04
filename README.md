@@ -70,7 +70,7 @@ cargada en el repositorio en la carpeta historia_usuarios del mismo.
 # Scripts de testing.
 
 ### Scripts, tecnicas TDD y tecnicas BDD.
-![Screenshot from 2022-05-04 01-45-37]()
+![Img_test]()
 
 En esta actividad se construyen los scripts de test unitarios (técnicas de TDD) y de aceptación (técnicas de BDD) basados en algunas historias de usuario cargadas en el repositorio. Esta actividad se encuentra cargada en el repositorio en la carpeta test del mismo.
 <!-- Sección actividad 4 -->

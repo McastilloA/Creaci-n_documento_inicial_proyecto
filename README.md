@@ -54,7 +54,8 @@ Esta actividad se encuentra cargada en el repositorio en la carpeta planeación 
 # Creación del documento de historias de usuario.
 
 ### Planeacion historia de usuarios HU (Final).
-![Screenshot from 2022-05-04 01-45-37](https://user-images.githubusercontent.com/43456634/166633947-3a91c7b9-58de-48f3-8707-08d35bc35fa9.png)
+![Screenshot from 2022-05-05 01-43-24](https://user-images.githubusercontent.com/43456634/166874556-8bbad8ca-b940-42f6-b254-560b1b2c83d0.png)
+
 
 En esta actividad se construyen las historias de usuario asociadas al proyecto en las cuales se definan los criterios de aceptación asociados a cada historia de usuario con la finalidad de especificar los requerimientos del producto de software a desarrollar. Esta actividad se encuentra 
 cargada en el repositorio en la carpeta historia_usuarios del mismo.
